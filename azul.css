@@ -8,3 +8,9 @@ text-align:center;
 margin-top:30px;
 
 }
+p{text-align:center;}
+img {
+width:10cm;
+display:block;
+margin:.5cm auto;
+}
