@@ -1,0 +1,16 @@
+body {
+background-color: springgreen;
+}
+
+h1 {
+color: seagreen;
+text-align:center;
+margin-top:30px;
+
+}
+img{
+width:10cm;
+display:block;
+margin:0.1cm auto;
+
+}
